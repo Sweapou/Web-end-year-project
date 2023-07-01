@@ -1,0 +1,19 @@
+Creation annonce:
+    Imaginons 1 article avec un stock de 4
+    Ajout d'un article avec une description, un prix, un nom
+    Il nous faut la table vente qui est lie a t
+
+
+            $error = $query->errorInfo();
+        if ($error[0] != 0) {
+            echo $error[2];
+        }
+
+        function console_log($output, $with_script_tags = true) {
+    $js_code = 'console.log(' . json_encode($output, JSON_HEX_TAG) . 
+');';
+    if ($with_script_tags) {
+        $js_code = '<script>' . $js_code . '</script>';
+    }
+    echo $js_code;
+}

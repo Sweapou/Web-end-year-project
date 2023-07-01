@@ -1,0 +1,26 @@
+- assets
+    - /css
+    - /fonts
+    - /img
+    - /js
+- layout
+    - card
+    - card-list
+- pages
+    - /leboncoin
+    - /leboncoin/annonces
+    - /leboncoin/annonces/affichage.php
+    - /leboncoin/annonces/resa.php
+    - /home
+    - /about
+    - /contact
+- components
+    - /header
+    - /footer
+- scripts
+    - /auth
+
+    Select everything in quotes with regex: "(.*?)"
+    use vsc to select all occurances or cmd+shift+L 
+    then use cmd+shift+P to change to lowercase
+    
