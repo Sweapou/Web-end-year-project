@@ -1,5 +1,5 @@
 # Web-end-year-project
-My Website project of my 1st year at the IUT smb in R&amp;T. Basically it's just a site with two interface with one that correspond to the "Labo RT" and an other one to the "Leboncoin RT". Works with a postgres sql database and coded in PHP/HTML.
+My Website project of my 1st year at the IUT smb in R&amp;T. It integrates an auth system that works with Grenet Usmb. Basically it's just a site with two interface with one that correspond to the "Labo RT" and an other one to the "Leboncoin RT". Works with a postgres sql database and coded in PHP/HTML.
 
 Work To Do :
 
